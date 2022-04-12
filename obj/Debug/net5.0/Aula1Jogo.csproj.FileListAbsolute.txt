@@ -1,0 +1,16 @@
+C:\temp\ws-vs2022\CastGroup\Aula1\Aula1Jogo\obj\Debug\net5.0\Aula1Jogo.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\CastGroup\Aula1\Aula1Jogo\obj\Debug\net5.0\Aula1Jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\CastGroup\Aula1\Aula1Jogo\obj\Debug\net5.0\Aula1Jogo.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\CastGroup\Aula1\Aula1Jogo\obj\Debug\net5.0\Aula1Jogo.AssemblyInfo.cs
+C:\temp\ws-vs2022\CastGroup\Aula1\Aula1Jogo\obj\Debug\net5.0\Aula1Jogo.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\CastGroup\Aula1\Aula1Jogo\bin\Debug\net5.0\Aula1Jogo.exe
+C:\temp\ws-vs2022\CastGroup\Aula1\Aula1Jogo\bin\Debug\net5.0\Aula1Jogo.deps.json
+C:\temp\ws-vs2022\CastGroup\Aula1\Aula1Jogo\bin\Debug\net5.0\Aula1Jogo.runtimeconfig.json
+C:\temp\ws-vs2022\CastGroup\Aula1\Aula1Jogo\bin\Debug\net5.0\Aula1Jogo.runtimeconfig.dev.json
+C:\temp\ws-vs2022\CastGroup\Aula1\Aula1Jogo\bin\Debug\net5.0\Aula1Jogo.dll
+C:\temp\ws-vs2022\CastGroup\Aula1\Aula1Jogo\bin\Debug\net5.0\Aula1Jogo.pdb
+C:\temp\ws-vs2022\CastGroup\Aula1\Aula1Jogo\obj\Debug\net5.0\Aula1Jogo.dll
+C:\temp\ws-vs2022\CastGroup\Aula1\Aula1Jogo\obj\Debug\net5.0\refint\Aula1Jogo.dll
+C:\temp\ws-vs2022\CastGroup\Aula1\Aula1Jogo\obj\Debug\net5.0\Aula1Jogo.pdb
+C:\temp\ws-vs2022\CastGroup\Aula1\Aula1Jogo\obj\Debug\net5.0\Aula1Jogo.genruntimeconfig.cache
+C:\temp\ws-vs2022\CastGroup\Aula1\Aula1Jogo\obj\Debug\net5.0\ref\Aula1Jogo.dll
